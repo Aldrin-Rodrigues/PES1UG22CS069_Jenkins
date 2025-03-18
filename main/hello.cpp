@@ -7,6 +7,6 @@ int main(void) {
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run this  \n";
   cout << "changes Made";
-  cout << "Checking change made in jenkins using webhook";
+  cout << "Checking changes made in jenkins using webhook";
   return 0;
 }
